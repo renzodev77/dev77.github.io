@@ -1,0 +1,1 @@
+/* vacio por si se quiere agregar alguna funcionalidad de JavaScript */
